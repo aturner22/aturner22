@@ -7,7 +7,7 @@ My professional experience includes data engineering and financial research role
 
 Recent achievements include first place wins in two [Society for Technological Advancement](https://ilikethefuture.com/) hackathons, where I developed an automated Bayesian prior elicitation system for non-technical experts and an AI geoengineering simulator based on machine learning weather models.
 
-My previous studies include a BA in Economics and Management at the University of Oxford and an MSc in Statistics at Imperial College London. MSc thesis: *["Approximate Bayesian Computation with Proper Scoring Rules: An Inference Framework for Calibrated Probabilistic Forecasts"](/MSc_Thesis.pdf)*
+My previous studies include a BA in Economics and Management at the University of Oxford and an MSc in Statistics at Imperial College London.
 
 Beyond work and academia, I'm a saxophonist who writes music and regularly performs across London. I also enjoy hiking, travelling and generally exploring nature!
 
